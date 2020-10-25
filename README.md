@@ -1,4 +1,4 @@
-# OptimizedSolarPanels
+# OptimizedSolarPanels (Sunflower Solar Panels)
 Code to arduino project, which was an innovative optimazation to solar panels
 
 Project was inspired by the sunflower and its ability to track the sun and optimize the amount of light it hits. 
